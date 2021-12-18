@@ -1,4 +1,8 @@
 # Databricks notebook source
+# MAGIC %md 
+# MAGIC 
+# MAGIC ## This is a Python Notebook with Functions Inside 
+# MAGIC ### ```This is a Databricks notebook Source```
 
 
 def convertFtoC(unitCol, tempCol):
