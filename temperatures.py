@@ -52,3 +52,9 @@ display(df.select(roundedTemp("unit", "temp")))
 # COMMAND ----------
 
 display(df.select(convertFtoC("unit", "temp")))
+
+# COMMAND ----------
+
+# A new cell for the feature branch of 
+
+df.count()
